@@ -7,12 +7,13 @@ The project is consists from 4 parts:
 - AppOpener
 - Translation Model
 - Palm Model
-- ![picture alt](https://github.com/youssef893/Ai-assistant-bot/blob/main/bot.png)
 
 
 # Gui
 It uses PyQt5 library.
 Gui has Button, Text box, GIF and Text label to show the answer of the bot
+- ![picture alt](https://github.com/youssef893/Ai-assistant-bot/blob/main/bot.png)
+
 
 # App Opener 
 It is a library can open any app installed or has files in the partition of windows
